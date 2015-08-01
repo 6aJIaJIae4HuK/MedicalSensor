@@ -1,0 +1,4 @@
+#ifndef INITMESSAGE_H
+#define INITMESSAGE_H
+
+#endif // INITMESSAGE_H

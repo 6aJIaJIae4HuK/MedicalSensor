@@ -1,0 +1,4 @@
+#ifndef FINISHMESSAGE_H
+#define FINISHMESSAGE_H
+
+#endif // FINISHMESSAGE_H
